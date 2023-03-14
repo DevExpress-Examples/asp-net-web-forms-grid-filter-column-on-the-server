@@ -47,3 +47,7 @@ This example demonstrates how to use a text string from the external text box to
 ## Documentation
 
 * [AutoFilterBy](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.AutoFilterBy(System.String))
+
+## More Examples
+
+* [GridView for ASP.NET Web Forms - How to apply a filter to a column on the client side](https://github.com/DevExpress-Examples/aspxgridview-how-to-apply-a-filter-to-a-column-on-the-client-side-e3583)
