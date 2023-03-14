@@ -9,7 +9,7 @@ This example demonstrates how to use a text string from the external text box to
 
 ## Overview
 
-1. Create the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control, populate it with columns, and bind it to a data source. Add a text box and a button. In a button's client-side [Click](https://docs.devexpress.com/AspNet/js-ASPxClientButton.Click) event handler, call the grid's [PerformCallback](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.PerformCallback(args)) method to send a callback to the server.
+1. Create the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control, populate it with columns, and bind it to a data source. Add a text box and a button. In a button's client-side [Click](https://docs.devexpress.com/AspNet/js-ASPxClientButton.Click) event handler, call the grid's [PerformCallback](https://docs.devexpress.com/AspNet/js-ASPxClientGridView.PerformCallback(args)) method to pass a text string from the text box to the server.
 
     ```aspx
     <dx:ASPxTextBox ID="txtFilter" runat="server" Width="170px" Style="display: inline-table" />
