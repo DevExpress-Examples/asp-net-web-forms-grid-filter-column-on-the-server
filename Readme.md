@@ -10,9 +10,6 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to apply a filter to a column on the server side
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128533341/)**
-<!-- run online end -->
 
 
 <p>This example illustrates how to filter a grid using the outside text box. To apply a filter to a particular column, perform a callback to the grid and call an instance of the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewGridViewDataColumn_AutoFilterBytopic"><u>AutoFilterBy</u></a> method. </p><p></p><p><strong>See also:<br />
